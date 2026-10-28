@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+allure-results-current/
+venv/
+.env
+.DS_Store
+locators_two
+#allure-report
+#allure-results
